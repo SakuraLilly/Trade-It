@@ -1,0 +1,6 @@
+name: "Trade it"
+displayName: "[green]Trade it"
+author: "[pink]SakuraLilly"
+description: "Inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working. "
+version: "1.0"
+minGameVersion: "105"

@@ -1,0 +1,26 @@
+type:GenericCrafter
+name: Trader Lead to Titanium
+description: Trade lead to titanium 
+health: 400
+size:2
+requirements: [
+  lead/1000
+]
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 25
+consumes: {
+power:0.6
+ items: { 
+  items: [
+  lead/5
+]
+}
+}
+category:crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: titanium/10
+research: trade-it-coptho
+

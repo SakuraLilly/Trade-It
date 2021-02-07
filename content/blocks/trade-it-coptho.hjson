@@ -1,0 +1,27 @@
+type:GenericCrafter
+name: Trader Copper to Thorium
+description: Trade copper to thorium 
+health: 400
+size:2
+requirements: [
+  copper/2000
+]
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 25
+consumes: {
+power:0.6
+ items: { 
+  items: [
+  copper/5
+]
+}
+}
+category:crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: thorium/10
+research: trade-it-coplea
+
+
