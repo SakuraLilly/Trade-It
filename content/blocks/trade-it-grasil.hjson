@@ -1,0 +1,25 @@
+type:GenericCrafter
+name: Graphite to more silicon
+description: Graphite in, more silicon out.  
+health: 400
+size:2
+requirements: [
+  graphite/1000
+]
+haspower:true
+hasLiquids:false
+hasItems:true
+craftTime: 25
+consumes: {
+power:0.6
+ items: { 
+  items: [
+  graphite/5
+]
+}
+}
+category:crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: silicon/10
+research: trade-it-tittho
