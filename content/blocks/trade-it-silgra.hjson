@@ -4,7 +4,7 @@ description: Silicon in, more graphite out.
 health: 400
 size:2
 requirements: [
-  graphite/1000
+  silicon/1000
 ]
 haspower:true
 hasLiquids:false

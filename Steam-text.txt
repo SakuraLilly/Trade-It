@@ -8,7 +8,11 @@ Copper to Thorium
 Lead to Titanium
 Lead to Thorium 
 
-Titanium to Thorium 
+Titanium to Thorium
+
+Graphite to Silicon
+Silicon to Graphite
+(And a fun multiplier when combined) 
 
 They cost between 1000 and 2000 to build. 
 But put in 5 to get 10 out of it. 
