@@ -14,12 +14,12 @@ consumes: {
 power:0.6
  items: { 
   items: [
-  silicon/5
+  silicon/2
 ]
 }
 }
 category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: graphite/10
+outputItem: graphite/15
 research: trade-it-tittho
