@@ -21,5 +21,5 @@ power:0.6
 category:crafting
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: graphite/15
+outputItem: graphite/10
 research: trade-it-tittho
